@@ -12,3 +12,6 @@ URL: http://www.statnlp.org/software/dataset
 * MalwareTextDB
 * Multilingual ATIS
 * NP-annotated SMS dataset
+
+### THUOCL：清华大学开放中文词库
+URL: http://thuocl.thunlp.org/
