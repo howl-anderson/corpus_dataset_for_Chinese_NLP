@@ -15,3 +15,6 @@ URL: http://www.statnlp.org/software/dataset
 
 ### THUOCL：清华大学开放中文词库
 URL: http://thuocl.thunlp.org/
+
+### “学堂在线”课程中文分词和词性标注语料库
+URL: http://nlp.csai.tsinghua.edu.cn/site2/index.php/en/resources/195-xuetangxccorpus1-0
